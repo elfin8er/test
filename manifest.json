@@ -1,0 +1,16 @@
+{
+    "schema": 0.2,
+    "name": "<package-name>",
+    "version": 0.1,
+    "issues": "https://github.com/Snapkg/<package-name>/issues",
+    "authors": {
+        "maintainers": [{
+            "username_github": "<github-username>",
+            "username_snap": "<snap-username>"
+        }]
+    },
+    "sources": {
+        "blocks": [
+        ]
+    }
+}
